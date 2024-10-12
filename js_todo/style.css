@@ -1,0 +1,17 @@
+.container {
+    display: grid;
+    justify-content: center;
+}
+
+.add_item {
+    display: flex;
+    justify-content: space-around;
+}
+
+.edit {
+    margin-left: 15px;
+}
+
+.delete {
+    margin-left: 10px;
+}
